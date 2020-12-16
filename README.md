@@ -1,4 +1,5 @@
 # Computational-Geometry-Final-project
 
 
-– Polygon ConvexHullGiftWrapped( ArrayList<Point> points ) — Takes in a list of points and returns a polygon that should be the convex hull of the points.
+
+Implement the art gallery problem solution discussed in class. Enable checking if user selected guard locations cover the polygon.
